@@ -367,8 +367,9 @@ I provide **comprehensive Metaplex Hybrid NFT development services** for busines
 ### 🌟 Starter Package - $2,500
 - Basic collection setup (up to 1,000 NFTs)
 - Standard metadata implementation
-- Candy Machine v3 configuration
+- Core Candy Machine configuration
 - Basic minting website
+- Solana secure Wallet integration
 - 2 weeks delivery
 
 ### 🚀 Professional Package - $5,000
