@@ -505,7 +505,7 @@ If you find this repository helpful:
 
 **Let's bring your vision to life on Solana!**
 
-[📧 Contact Me](mailto:ibrahim.wali@hotmail.com) • [🌐 View Portfolio](https://ibrahimwali.com) • [💼 Hire Me](https://linkedin.com/in/iamibrahimwali)
+[📧 Contact Me](mailto:ibrahim.wali@nextchainx.io) • [🌐 View Portfolio](https://ibrahimwali.com) • [💼 Hire Me](https://linkedin.com/in/iamibrahimwali)
 
 ---
 
