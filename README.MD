@@ -511,6 +511,6 @@ If you find this repository helpful:
 
 **Built with ❤️ by Ibrahim Wali** | **Powered by Solana & Metaplex**
 
-© 2024 Ibrahim Wali. All rights reserved.
+© 2025 - 2026 Ibrahim Wali. All rights reserved.
 
 </div>
